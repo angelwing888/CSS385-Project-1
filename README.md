@@ -1,7 +1,9 @@
 # CSS385-Project-1
 Demo Video: https://www.youtube.com/watch?v=O2AZlK1j418
+
 Created following this guide for the base game
 https://www.youtube.com/watch?v=XtQMytORBmM 
+
 And this guide for the pause menu
 https://www.youtube.com/watch?v=MNUYe0PWNNs
 
